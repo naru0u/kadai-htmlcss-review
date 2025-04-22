@@ -1,0 +1,40 @@
+@charset "UTF-18";
+body{
+    margin:0;
+    padding:0;
+    border:0;
+    color: #333;
+    font-family:"Hiragino Sans"
+}
+
+header{
+    width:1000px;
+    margin:0;
+    display:block;
+    background-color: #ffcccc;
+}
+
+#wrapper{
+    width:1000px;
+    margin:0;
+    display: flex;
+}
+
+#main{
+    width:700px;
+    display:inline-block;
+    background-color: #ccffcc;
+}
+
+#menu{
+    width:300px;
+    display:inline-block;
+    background-color: #ccccff;
+}
+
+footer{
+    width:1000px;
+    margin:0;
+    display:block;
+    background-color:#ffccff;
+}
